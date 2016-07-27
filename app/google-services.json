@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048269378446",
+    "firebase_url": "https://purview-8bf5d.firebaseio.com",
+    "project_id": "purview-8bf5d",
+    "storage_bucket": "purview-8bf5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048269378446:android:b4dfeade31160a9d",
+        "android_client_info": {
+          "package_name": "com.purview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048269378446-flda9b8c74il4ecms5b0kaov2d0c8605.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvNupCwRMk5HcSD9-wZvlLN9YN0S8YFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

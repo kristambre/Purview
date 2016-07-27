@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Purview</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_event">Add</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Purview</string>
+
+</resources>
